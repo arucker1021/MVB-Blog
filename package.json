@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "feri": "^4.3.0",
     "lit-element": "^2.2.1"
   }
 }
