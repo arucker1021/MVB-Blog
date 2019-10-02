@@ -1,0 +1,7 @@
+node_modules
+.notes
+build/
+static/
+# Local Netlify folder
+.netlify
+.env

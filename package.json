@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "feri": "^4.3.0",
+    "handlebars": "^4.4.1",
     "lit-element": "^2.2.1",
-    "netlify-cms": "^2.9.7"
+    "netlify-cms": "^2.9.7",
+    "remark": "^11.0.1"
   }
 }
